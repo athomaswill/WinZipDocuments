@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PCAppearanceObjects</key>
+	<dict>
+		<key>PCAppearanceKeyboardAppearance</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>number</string>
+			<key>PCAppearanceValue</key>
+			<string>1</string>
+		</dict>
+		
+		<key>PCAppearanceStatusBarStyle</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>number</string>
+			<key>PCAppearanceValue</key>
+			<string>1</string>
+		</dict>
+	    
+	    
+		<!-- Bars -->
+		<key>PCAppearanceTintColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(0, 0%, 65%)</string>
+		</dict>
+		
+		<key>PCAppearanceBarTintColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>black</string>
+		</dict>
+		
+		<key>PCAppearanceHighlightedTintColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(130, 76%, 92%)</string>
+		</dict>
+		
+		<key>PCAppearanceTitleColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(0, 0%, 100%)</string>
+		</dict>
+		
+		<key>PCAppearanceSubtitleColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(0, 0%, 65%)</string>
+		</dict>
+		
+		
+		<!-- Elements -->
+		<key>PCAppearanceStaticTextColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(0, 0%, 65%)</string>
+		</dict>
+		
+		<key>PCAppearanceTextFieldColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(0, 0%, 100%)</string>
+		</dict>
+		
+		<key>PCAppearanceBodyTextColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(0, 0%, 100%)</string>
+		</dict>
+		
+		
+		<!-- Content -->
+		<key>PCAppearanceContentTextColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(220, 10%, 80%)</string>
+		</dict>
+		
+		<key>PCAppearanceContentBackgroundColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(0, 0%, 16%)</string>
+		</dict>
+		
+		<key>PCAppearanceContentSectionBackgroundColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(0, 0%, 20%)</string>
+		</dict>
+		
+		<key>PCAppearanceContentSelectedBackgroundColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(0, 0%, 24%)</string>
+		</dict>
+		
+		<key>PCAppearanceContentSeparatorColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(0, 0%, 30%)</string>
+		</dict>
+		
+		
+		<!-- List Items -->
+		<key>PCAppearanceListItemTitleColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(0, 0%, 75%)</string>
+		</dict>
+		
+		<key>PCAppearanceListItemSubtitleColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(0, 0%, 50%)</string>
+		</dict>
+		
+		<key>PCAppearanceListItemValueColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(0, 0%, 50%)</string>
+		</dict>
+		
+		
+		<!-- Actions -->
+		<key>PCAppearanceActionTintColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(28, 90%, 95%)</string>
+		</dict>
+		
+		<key>PCAppearanceDestructiveTintColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(0, 75%, 100%)</string>
+		</dict>
+		
+		<key>PCAppearanceTransferTintColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(190, 51%, 91%)</string>
+		</dict>
+		
+		<key>PCAppearanceDownloadTintColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(306, 55%, 70%)</string>
+		</dict>
+		
+		<key>PCAppearanceUploadTintColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(138, 75%, 80%)</string>
+		</dict>
+		
+		
+		<!-- Files -->
+		<key>PCAppearanceFileTintColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(0, 0%, 65%)</string>
+		</dict>
+		
+		<key>PCAppearanceFolderTintColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(190, 51%, 91%)</string>
+		</dict>
+		
+		<key>PCAppearanceAliasTintColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(28, 90%, 95%)</string>
+		</dict>
+		
+		
+		<!-- Permissions -->
+		<key>PCAppearancePermissionsUserTintColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(140, 75%, 80%)</string>
+		</dict>
+		
+		<key>PCAppearancePermissionsGroupTintColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(42, 65%, 100%)</string>
+		</dict>
+		
+		<key>PCAppearancePermissionsWorldTintColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(0, 75%, 100%)</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

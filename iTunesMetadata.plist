@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIRequiredDeviceCapabilities</key>
+	<dict>
+		<key>armv7</key>
+		<true/>
+	</dict>
+	<key>appleId</key>
+	<string>user_hidden@cracked.by</string>
+	<key>purchaseDate</key>
+	<date>2016-09-09T09:09:09Z</date>
+	<key>artistId</key>
+	<integer>403388568</integer>
+	<key>artistName</key>
+	<string>Panic, Inc.</string>
+	<key>bundleDisplayName</key>
+	<string>Prompt</string>
+	<key>bundleShortVersionString</key>
+	<string>2.6.5</string>
+	<key>bundleVersion</key>
+	<string>76478</string>
+	<key>copyright</key>
+	<string>© 2018 Panic Inc</string>
+	<key>drmVersionNumber</key>
+	<integer>0</integer>
+	<key>fileExtension</key>
+	<string>.app</string>
+	<key>gameCenterEnabled</key>
+	<false/>
+	<key>gameCenterEverEnabled</key>
+	<false/>
+	<key>genre</key>
+	<string>Utilities</string>
+	<key>genreId</key>
+	<integer>6002</integer>
+	<key>itemId</key>
+	<integer>917437289</integer>
+	<key>itemName</key>
+	<string>Prompt 2</string>
+	<key>kind</key>
+	<string>software</string>
+	<key>playlistName</key>
+	<string>Panic, Inc.</string>
+	<key>product-type</key>
+	<string>ios-app</string>
+	<key>rating</key>
+	<dict>
+		<key>content</key>
+		<string>Advisory.NO.GAMBLING_CONTESTS and Advisory.NO.UNRESTRICTED_WEB_ACCESS</string>
+		<key>label</key>
+		<string>4+</string>
+		<key>rank</key>
+		<integer>100</integer>
+		<key>system</key>
+		<string>itunes-games</string>
+	</dict>
+	<key>releaseDate</key>
+	<string>2014-10-08T19:12:59Z</string>
+	<key>s</key>
+	<integer>143455</integer>
+	<key>softwareIcon57x57URL</key>
+	<string>http://a1186.phobos.apple.com/us/r30/Purple128/v4/8b/ae/ef/8baeef53-b24f-a36d-414a-0b8c42a21ea1/icon114x114.jpeg</string>
+	<key>softwareIconNeedsShine</key>
+	<false/>
+	<key>softwareSupportedDeviceIds</key>
+	<array>
+		<integer>2</integer>
+		<integer>9</integer>
+		<integer>4</integer>
+	</array>
+	<key>softwareVersionBundleId</key>
+	<string>com.panic.Prompt2</string>
+	<key>softwareVersionExternalIdentifier</key>
+	<integer>825779594</integer>
+	<key>softwareVersionExternalIdentifiers</key>
+	<array>
+		<integer>704902665</integer>
+		<integer>739082686</integer>
+		<integer>759082711</integer>
+		<integer>784482673</integer>
+		<integer>810914259</integer>
+		<integer>812025858</integer>
+		<integer>812735009</integer>
+		<integer>813039693</integer>
+		<integer>816411101</integer>
+		<integer>816483896</integer>
+		<integer>816714946</integer>
+		<integer>817526110</integer>
+		<integer>817806367</integer>
+		<integer>817863329</integer>
+		<integer>818845294</integer>
+		<integer>819186218</integer>
+		<integer>819212917</integer>
+		<integer>819580248</integer>
+		<integer>823232438</integer>
+		<integer>824248095</integer>
+		<integer>825199384</integer>
+		<integer>825297459</integer>
+		<integer>825503641</integer>
+		<integer>825779594</integer>
+	</array>
+	<key>vendorId</key>
+	<integer>10692</integer>
+	<key>versionRestrictions</key>
+	<integer>16843008</integer>
+</dict>
+</plist>
+

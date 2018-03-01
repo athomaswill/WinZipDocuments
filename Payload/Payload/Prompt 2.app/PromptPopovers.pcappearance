@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PCAppearanceParent</key>
+    <string>PromptLight</string>
+    
+	<key>PCAppearanceObjects</key>
+	<dict>
+        <key>PCAppearanceTintColor</key>
+        <dict>
+            <key>PCAppearanceType</key>
+            <string>color</string>
+            <key>PCAppearanceValue</key>
+            <string>rgb(127, 78, 254)</string>
+        </dict>
+        <key>PCAppearanceStatusBarHidden</key>
+        <dict>
+            <key>PCAppearanceType</key>
+            <string>number</string>
+            <key>PCAppearanceValue</key>
+            <string>1</string>
+        </dict>
+
+		<!-- Bars -->
+		<key>PCAppearanceBarTintColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>rgb(247, 247, 247)</string>
+		</dict>
+        
+		<!-- Content -->
+		<key>PCAppearanceContentBackgroundColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>rgb(239, 239, 239)</string>
+		</dict>
+		
+		<key>PCAppearanceContentSectionBackgroundColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>rgb(255, 255, 255)</string>
+		</dict>
+		
+		<key>PCAppearanceContentSelectedBackgroundColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>rgb(217, 217, 217)</string>
+		</dict>
+		
+		<key>PCAppearanceContentSeparatorColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>rgb(200, 200, 200)</string>
+		</dict>
+        <key>PCAppearanceTitleColor</key>
+        <dict>
+            <key>PCAppearanceType</key>
+            <string>color</string>
+            <key>PCAppearanceValue</key>
+            <string>rgb(0,0,0)</string>
+        </dict>
+		
+		<!-- List Items -->
+        
+		<key>PCAppearanceListItemTitleColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>rgb(0,0,0)</string>
+		</dict>
+        <key>PCAppearanceStaticTextColor</key>
+        <dict>
+            <key>PCAppearanceType</key>
+            <string>color</string>
+            <key>PCAppearanceValue</key>
+            <string>rgb(0,0,0)</string>
+        </dict>
+		
+		<key>PCAppearanceListItemSubtitleColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(0, 0%, 60%)</string>
+		</dict>
+		
+		<key>PCAppearanceListItemValueColor</key>
+		<dict>
+			<key>PCAppearanceType</key>
+			<string>color</string>
+			<key>PCAppearanceValue</key>
+			<string>hsb(0, 0%, 60%)</string>
+		</dict>
+        <key>PCAppearancePlaceholderTextColor</key>
+        <dict>
+            <key>PCAppearanceType</key>
+            <string>color</string>
+            <key>PCAppearanceValue</key>
+            <string>rgba(128, 128, 128, 0.5)</string>
+        </dict>
+        
+        <!-- UIKit Common Options -->
+        <key>PCAppearanceScrollViewIndicatorStyle</key>
+        <dict>
+            <key>PCAppearanceType</key>
+            <string>number</string>
+            <key>PCAppearanceValue</key>
+            <string>2</string>
+        </dict>
+
+
+	</dict>
+</dict>
+</plist>
